@@ -1,4 +1,4 @@
-package webjava2024.poo;
+package webjava2024.rdajila.poo;
 
 public final class Contador {
 	private int Cont;
